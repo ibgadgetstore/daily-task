@@ -1,2 +1,0 @@
-function a(t,e){return{description:"Waitify is a clean and customizable waitlist template for SaaS businesses, designed to gather leads effortlessly.",favicon:"https://framerusercontent.com/assets/hvfBGbwc1AsKFtdq8R2VcwHAv0A.svg",robots:"max-image-preview:large",socialImage:"https://framerusercontent.com/assets/c9XZUTSVr1xwVZCb2oH3vXJd7LY.png",title:"Waitify - SaaS Waitlist Template"}}export{a};
-//# sourceMappingURL=chunk-65WEB3FZ.mjs.map
